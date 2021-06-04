@@ -1,6 +1,3 @@
-# Documentation for the esp8266 led strip controller
+This is a old project. For the newer one please review https://github.com/KaiserLudwigIV/ledcontrol.
 
-Up to now there are 2 varieties to choose from:
-
-1. Multiplatform controll through a website
-2. Control the strip via Android app (w/ Music analysis)
+This one has an app integration though. :)
